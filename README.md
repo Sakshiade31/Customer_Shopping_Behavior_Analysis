@@ -112,7 +112,8 @@ The dashboard includes:
 The Power BI dashboard provides a visual overview of the dataset and helps users quickly understand important business metrics and trends.
 
 **Dashboard Preview:**
-<img width="1232" height="731" alt="image" src="https://github.com/user-attachments/assets/5865dc23-742d-434e-bc43-666b55177de7" />
+<img width="1237" height="737" alt="image" src="https://github.com/user-attachments/assets/f760b2da-4451-479e-9ebe-b20f3196110e" />
+
 
 
 
@@ -176,7 +177,5 @@ jupyter notebook
 
 ```
 
-## Conclusion
 
-This project demonstrates an end-to-end **Data Analytics workflow using Python, SQL, and Power BI**. It covers data cleaning, exploratory analysis, SQL-based analysis, visualization, and dashboard development, providing practical experience with commonly used data analytics tools.
 
