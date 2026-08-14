@@ -174,8 +174,3 @@ jupyter notebook
 3. Refresh the data.
 4. Explore the dashboard using the available filters and slicers.
 
-
-```
-
-
-
